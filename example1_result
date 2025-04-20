@@ -1,0 +1,93 @@
+
+Please enter a command:
+You entered the line:
+print_comp A
+The complex number is: 0.00 + (0.00)i
+Please enter a command:
+You entered the line:
+print_comp B
+The complex number is: 0.00 + (0.00)i
+Please enter a command:
+You entered the line:
+print_comp C
+The complex number is: 0.00 + (0.00)i
+Please enter a command:
+You entered the line:
+read_comp A, 45.1, -23.75
+
+Please enter a command:
+You entered the line:
+print_comp A
+The complex number is: 45.10 - (23.75)i
+Please enter a command:
+You entered the line:
+read_comp B, 54.2, 3.56
+
+Please enter a command:
+You entered the line:
+print_comp B
+The complex number is: 54.20 + (3.56)i
+Please enter a command:
+You entered the line:
+read_comp C, 0, -1
+
+Please enter a command:
+You entered the line:
+print_comp C
+The complex number is: 0.00 - (1.00)i
+Please enter a command:
+You entered the line:
+add_comp A, B
+The complex number is: 99.30 - (20.19)i
+Please enter a command:
+You entered the line:
+sub_comp C, A
+The complex number is: -45.10 + (22.75)i
+Please enter a command:
+You entered the line:
+sub_comp B, B
+The complex number is: 0.00 + (0.00)i
+Please enter a command:
+You entered the line:
+sub_comp D, A
+The complex number is: -45.10 + (23.75)i
+Please enter a command:
+You entered the line:
+mult_comp_real A, 2.51
+The complex number is: 113.20 - (59.61)i
+Please enter a command:
+You entered the line:
+mult_comp_img A, -2.564
+The complex number is: -60.90 - (115.64)i
+Please enter a command:
+You entered the line:
+mult_comp_comp A, B
+The complex number is: 2528.97 - (1126.69)i
+Please enter a command:
+You entered the line:
+mult_comp_comp E , C
+The complex number is: 0.00 + (0.00)i
+Please enter a command:
+You entered the line:
+abs_comp A
+50.971291
+
+Please enter a command:
+You entered the line:
+abs_comp B
+54.316789
+
+Please enter a command:
+You entered the line:
+abs_comp C
+1.000000
+
+Please enter a command:
+You entered the line:
+abs_comp F
+0.000000
+
+Please enter a command:
+You entered the line:
+stop
+The operation was successful, and the program is terminating as requested.

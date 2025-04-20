@@ -1,0 +1,55 @@
+
+Please enter a command:
+You entered the line:
+read_comp, A, 3.5, -2.5
+Illegal comma
+
+Please enter a command:
+You entered the line:
+read_comp, B, 4.0, 0.0
+Illegal comma
+
+Please enter a command:
+You entered the line:
+add_comp, A, B
+Illegal comma
+
+Please enter a command:
+You entered the line:
+sub_comp, B, A
+Illegal comma
+
+Please enter a command:
+You entered the line:
+mult_comp_real, A, 2.0
+Illegal comma
+
+Please enter a command:
+You entered the line:
+mult_comp_img, A, 3.0
+Illegal comma
+
+Please enter a command:
+You entered the line:
+print_comp, A
+Illegal comma
+
+Please enter a command:
+You entered the line:
+abs_comp, A
+Illegal comma
+
+Please enter a command:
+You entered the line:
+read_comp, C, 0, 0
+Illegal comma
+
+Please enter a command:
+You entered the line:
+mult_comp_comp, A, C
+Illegal comma
+
+Please enter a command:
+You entered the line:
+stop
+The operation was successful, and the program is terminating as requested.
